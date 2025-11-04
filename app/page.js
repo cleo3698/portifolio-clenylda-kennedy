@@ -1,5 +1,4 @@
 // page.js (ou page.tsx) com Tailwind CSS
-import Header from '@app/components/Header';
 import Image from "next/image"; 
 
 export default function Home() {
